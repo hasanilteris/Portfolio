@@ -117,6 +117,7 @@ section {
     -webkit-transform: translateY(0) scaleY(1);
             transform: translateY(0) scaleY(1);
   }
+  
 }
 .controlls {
   position: fixed;
