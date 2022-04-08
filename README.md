@@ -1,5 +1,4 @@
 # Portfolio
-Html , Css , Sass , Javascript kullanarak yaptığım kişisel portfolyo
 
+## You can view the site [**here.**](https://hasan-ilteris-dincer.netlify.app/)
 
-Demo Linki : https://hasan-ilteris-dincer.netlify.app/
